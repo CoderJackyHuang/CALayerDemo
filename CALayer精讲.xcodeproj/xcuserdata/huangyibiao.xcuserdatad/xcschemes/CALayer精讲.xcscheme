@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0710"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "697D6E101C166DBF00E7957A"
+               BuildableName = "CALayer&#x7cbe;&#x8bb2;.app"
+               BlueprintName = "CALayer&#x7cbe;&#x8bb2;"
+               ReferencedContainer = "container:CALayer&#x7cbe;&#x8bb2;.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "697D6E291C166DC000E7957A"
+               BuildableName = "CALayer&#x7cbe;&#x8bb2;Tests.xctest"
+               BlueprintName = "CALayer&#x7cbe;&#x8bb2;Tests"
+               ReferencedContainer = "container:CALayer&#x7cbe;&#x8bb2;.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "697D6E341C166DC000E7957A"
+               BuildableName = "CALayer&#x7cbe;&#x8bb2;UITests.xctest"
+               BlueprintName = "CALayer&#x7cbe;&#x8bb2;UITests"
+               ReferencedContainer = "container:CALayer&#x7cbe;&#x8bb2;.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "697D6E101C166DBF00E7957A"
+            BuildableName = "CALayer&#x7cbe;&#x8bb2;.app"
+            BlueprintName = "CALayer&#x7cbe;&#x8bb2;"
+            ReferencedContainer = "container:CALayer&#x7cbe;&#x8bb2;.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "697D6E101C166DBF00E7957A"
+            BuildableName = "CALayer&#x7cbe;&#x8bb2;.app"
+            BlueprintName = "CALayer&#x7cbe;&#x8bb2;"
+            ReferencedContainer = "container:CALayer&#x7cbe;&#x8bb2;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "697D6E101C166DBF00E7957A"
+            BuildableName = "CALayer&#x7cbe;&#x8bb2;.app"
+            BlueprintName = "CALayer&#x7cbe;&#x8bb2;"
+            ReferencedContainer = "container:CALayer&#x7cbe;&#x8bb2;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
