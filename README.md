@@ -5,6 +5,8 @@ CALayer精讲对应的demo
 
 [CALayer精讲](http://www.henishuo.com/calayer-learning/)
 
+[CABasicAnimation精讲](http://www.henishuo.com/cabasicanimation-introduce-in-detail/)
+
 #关注我
 
 **微信公众号：[iOSDevShares](http://www.henishuo.com/)**<br>

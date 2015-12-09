@@ -9,6 +9,7 @@
 #import "ViewController.h"
 #import "HYBImageCropController.h"
 #import "HYBMoveCircleLayerController.h"
+#import "HYBCABasicAnimationController.h"
 
 @interface ViewController () <UITableViewDelegate, UITableViewDataSource>
 
@@ -29,6 +30,7 @@
   
   self.datSource = @[[[HYBMoveCircleLayerController alloc] initWithTitle:@"移动圆形图层"],
                      [[HYBImageCropController alloc] initWithTitle:@"图片裁剪图层"],
+                     [[HYBCABasicAnimationController alloc] initWithTitle:@"CABasicAnimation动画学习"],
                      ];
 }
 

@@ -27,6 +27,9 @@
 		697D6E581C167BFD00E7957A /* HYBImageCropController.m in Sources */ = {isa = PBXBuildFile; fileRef = 697D6E571C167BFD00E7957A /* HYBImageCropController.m */; };
 		697D6E591C167BFD00E7957A /* HYBImageCropController.m in Sources */ = {isa = PBXBuildFile; fileRef = 697D6E571C167BFD00E7957A /* HYBImageCropController.m */; };
 		697D6E5A1C167BFD00E7957A /* HYBImageCropController.m in Sources */ = {isa = PBXBuildFile; fileRef = 697D6E571C167BFD00E7957A /* HYBImageCropController.m */; };
+		697D6E5E1C16C06B00E7957A /* HYBCABasicAnimationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 697D6E5D1C16C06B00E7957A /* HYBCABasicAnimationController.m */; };
+		697D6E5F1C16C06B00E7957A /* HYBCABasicAnimationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 697D6E5D1C16C06B00E7957A /* HYBCABasicAnimationController.m */; };
+		697D6E601C16C06B00E7957A /* HYBCABasicAnimationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 697D6E5D1C16C06B00E7957A /* HYBCABasicAnimationController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,6 +73,8 @@
 		697D6E521C167BDF00E7957A /* bb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bb.png; sourceTree = "<group>"; };
 		697D6E561C167BFD00E7957A /* HYBImageCropController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HYBImageCropController.h; path = Test/HYBImageCropController.h; sourceTree = "<group>"; };
 		697D6E571C167BFD00E7957A /* HYBImageCropController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HYBImageCropController.m; path = Test/HYBImageCropController.m; sourceTree = "<group>"; };
+		697D6E5C1C16C06B00E7957A /* HYBCABasicAnimationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HYBCABasicAnimationController.h; path = Test/HYBCABasicAnimationController.h; sourceTree = "<group>"; };
+		697D6E5D1C16C06B00E7957A /* HYBCABasicAnimationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HYBCABasicAnimationController.m; path = Test/HYBCABasicAnimationController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -170,6 +175,8 @@
 				697D6E4E1C1674DD00E7957A /* HYBMoveCircleLayerController.m */,
 				697D6E561C167BFD00E7957A /* HYBImageCropController.h */,
 				697D6E571C167BFD00E7957A /* HYBImageCropController.m */,
+				697D6E5C1C16C06B00E7957A /* HYBCABasicAnimationController.h */,
+				697D6E5D1C16C06B00E7957A /* HYBCABasicAnimationController.m */,
 			);
 			name = Test;
 			sourceTree = "<group>";
@@ -308,6 +315,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				697D6E4F1C1674DD00E7957A /* HYBMoveCircleLayerController.m in Sources */,
+				697D6E5E1C16C06B00E7957A /* HYBCABasicAnimationController.m in Sources */,
 				697D6E4A1C16745B00E7957A /* HYBBaseController.m in Sources */,
 				697D6E1C1C166DBF00E7957A /* ViewController.m in Sources */,
 				697D6E191C166DBF00E7957A /* AppDelegate.m in Sources */,
@@ -321,6 +329,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				697D6E4B1C16745B00E7957A /* HYBBaseController.m in Sources */,
+				697D6E5F1C16C06B00E7957A /* HYBCABasicAnimationController.m in Sources */,
 				697D6E591C167BFD00E7957A /* HYBImageCropController.m in Sources */,
 				697D6E501C1674DD00E7957A /* HYBMoveCircleLayerController.m in Sources */,
 				697D6E2F1C166DC000E7957A /* CALayer__Tests.m in Sources */,
@@ -332,6 +341,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				697D6E4C1C16745B00E7957A /* HYBBaseController.m in Sources */,
+				697D6E601C16C06B00E7957A /* HYBCABasicAnimationController.m in Sources */,
 				697D6E5A1C167BFD00E7957A /* HYBImageCropController.m in Sources */,
 				697D6E511C1674DD00E7957A /* HYBMoveCircleLayerController.m in Sources */,
 				697D6E3A1C166DC000E7957A /* CALayer__UITests.m in Sources */,
